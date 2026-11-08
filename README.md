@@ -8,7 +8,7 @@ This repository contains short MATLAB simulations designed to help students conn
 
 | Topic | Contents |
 | --- | --- |
-| [01 — Neural Plasticity](01-neural-plasticity/) | Hebbian learning; paired/unpaired activity; systematic parameter sweep |
+| [01 — Neural Plasticity](01-Neural-Plasticity/) | Hebbian learning; paired/unpaired activity; systematic parameter sweep |
 
 Additional topics may be added during the course.
 

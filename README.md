@@ -9,6 +9,7 @@ This repository contains short MATLAB simulations designed to help students conn
 | Topic | Contents |
 | --- | --- |
 | [01 — Neural Plasticity](01-neural-plasticity/) | Hebbian learning; paired/unpaired activity; systematic parameter sweep |
+| [02 — Artificial Neural Networks](02-Artificial-Neural-Networks/) | Parallel MATLAB and Python demos: one neuron, noisy sensory decision learning, XOR and hidden layers; lecture PDF and LaTeX |
 
 Additional topics may be added during the course.
 
